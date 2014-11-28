@@ -1,3 +1,5 @@
+#import "HYPTableViewCell.h"
+
 @implementation HYPTableViewCell
 
 - (instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
