@@ -1,3 +1,4 @@
 UITableViewCell
 ===================================
-Fix the awful default inset in table view cells
+
+A simple class to fix the default inset in UITableViewCell on > iOS 7.
