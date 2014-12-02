@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "HYPTableViewCell"
   s.version = "0.1"
-  s.summary = "Fix the awful default inset in table view cells"
+  s.summary = "Fix that awful default separator inset in table view cells"
   s.description = <<-DESC
                    * Fix that awful default separator inset in table view cells once for all
                    DESC
