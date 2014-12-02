@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version = "0.1"
   s.summary = "Fix the awful default inset in table view cells"
   s.description = <<-DESC
-                   * Fix the awful default inset in table view cells
+                   * Fix the awful default inset in table view cells once for all
                    DESC
   s.homepage = "https://github.com/hyperoslo/HYPTableViewCell"
   s.license = {
